@@ -30,7 +30,9 @@ p {
 }
 #newyork {
   background-image: url("./resources/the-flatiron-building.png");
+  background-repeat: no-repeat;
   z-index: -1;
+  background-color: grey;
 }
 #newyork p {
   font-size: 23px;
